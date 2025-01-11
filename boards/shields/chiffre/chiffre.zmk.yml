@@ -1,0 +1,8 @@
+file_format: "1"
+id: chiffre
+name: chiffre
+type: shield
+url: https://github.com/oppiliappan/le-chiffre-shield/
+requires: [pro_micro]
+features:
+  - keys
